@@ -22,6 +22,11 @@ Clean object files and binary by ```make clean```.
 
 Lauch the binary as ```./ProjetAS1```.
 
+### Exemple of Execution
+
+You can find an example of execution at the end of the page 12 in my [Project Report](https://github.com/3t13nn3/-S3-Huffman-Trie/blob/master/Rapport/RAPPORT.pdf).
+
+
 ## Authors
 
 * **Etienne PENAULT** - *Algorithme & Structure de donnée I* - Paris VIII
