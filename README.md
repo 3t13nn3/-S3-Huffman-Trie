@@ -3,7 +3,7 @@ A project of my second year of university based on the words indexations and the
 
 ### Prerequisites
 
-You must indicate your textes files in the "texts.cpp" by following this scheme:
+You must indicate your textes files in the "texts.cpp", in the ```addFilesPath``` function, by following this scheme:
 * ```fichiers.push_back("myPath/myText.txt");```
 
 ### How to use - *Linux Project*
