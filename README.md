@@ -3,6 +3,8 @@ A project of my second year of university based on the words indexations and the
 
 This project aims to compare 3 indexations methods of indexing by their speeds.
 
+If you french speaking, I invite you to check the [Report of this project](https://github.com/3t13nn3/-S3-Huffman-Trie/blob/master/Rapport/RAPPORT.pdf) for more details.
+
 ### Prerequisites
 
 You must indicate your textes files in the ```texts.cpp```, in the ```addFilesPath``` function, by following this scheme:
