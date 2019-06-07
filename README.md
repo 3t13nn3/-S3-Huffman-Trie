@@ -9,7 +9,7 @@ You must indicate your textes files in the ```texts.cpp```, in the ```addFilesPa
 * ```fichiers.push_back("myPath/myText.txt");```
 
 You could use the default files I used:
-* Download [Gutenberg Books]()
+* Download [Gutenberg Books](https://drive.google.com/open?id=1RnSn3jUBKIeumk7XZThDi_GBOAeGoJvq)
 * Move it to the project directory
 * Extract and remove the archive with ```tar xvzf gutenberg-books.tar.gz && rm gutenberg-books.tar.gz```
 
