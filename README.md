@@ -7,7 +7,7 @@ If you are a french speaker, I invite you to check the [Report of this project](
 
 ### Prerequisites
 
-You must indicate your textes files in the ```texts.cpp```, in the ```addFilesPath``` function, by following this scheme:
+You must indicate your texts files in the ```texts.cpp```, in the ```addFilesPath``` function, by following this scheme:
 * ```fichiers.push_back("myPath/myText.txt");```
 
 You could use the default files I used:
