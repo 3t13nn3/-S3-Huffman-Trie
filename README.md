@@ -29,6 +29,6 @@ Lauch the binary as ```./ProjetAS1```.
 You can find an example of execution at the end of the page 12 in my [Project Report](https://github.com/3t13nn3/-S3-Huffman-Trie/blob/master/Rapport/RAPPORT.pdf).
 
 
-## Authors
+## Author
 
 * **Etienne PENAULT** - *Algorithme & Structure de donnée I* - Paris VIII
