@@ -1,9 +1,9 @@
 # -S3-Huffman-Trie
 A project of my second year of university based on the words indexations and the huffman coding from a text library.
 
-This project aims to compare 3 indexations methods of indexing by their speeds.
+This project aims to compare 3 indexations methods of indexing by their speed.
 
-If you french speaking, I invite you to check the [Report of this project](https://github.com/3t13nn3/-S3-Huffman-Trie/blob/master/Rapport/RAPPORT.pdf) for more details.
+If you are a french speaker, I invite you to check the [Report of this project](https://github.com/3t13nn3/-S3-Huffman-Trie/blob/master/Rapport/RAPPORT.pdf) for more details.
 
 ### Prerequisites
 
