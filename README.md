@@ -5,7 +5,7 @@ This project aims to compare 3 indexations methods of indexing by their speed.
 
 If you are a french speaker, I invite you to check the [Report of this project](https://github.com/3t13nn3/-S3-Huffman-Trie/blob/master/Rapport/RAPPORT.pdf) for more details.
 
-### Prerequisites
+## Prerequisites
 
 You must indicate your texts files in the ```texts.cpp```, in the ```addFilesPath``` function, by following this scheme:
 * ```fichiers.push_back("myPath/myText.txt");```
@@ -16,15 +16,21 @@ You could use the default files I used:
 * Extract and remove the archive with ```tar xvzf gutenberg-books.tar.gz && rm gutenberg-books.tar.gz```
 
 
-### How to use - *Linux Project*
+## How to use - *Linux Project*
+
+### Compilation
 
 Compile the program with ```make```.
 
-Clean object files and binary by ```make clean```.
+### Utilisation
 
 Lauch the binary as ```./ProjetAS1```.
 
-### Exemple of Execution
+### Clean files
+
+Clean object files and binary by ```make clean```.
+
+## Exemple of Execution
 
 You can find an example of execution at the end of the page 12 in my [Project Report](https://github.com/3t13nn3/-S3-Huffman-Trie/blob/master/Rapport/RAPPORT.pdf).
 
